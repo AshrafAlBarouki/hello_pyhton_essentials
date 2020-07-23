@@ -9,5 +9,6 @@
 # TODO: [x] Requirements
 # TODO: [x] Local History and Labels
 # TODO: [x] Git Repository
+# TODO: [] .gitignore
 # TODO: [] Docstring
 # TODO: [] The Zen of Python
