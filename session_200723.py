@@ -8,6 +8,6 @@
 # TODO: [x] Using 'Pylint'
 # TODO: [x] Requirements
 # TODO: [x] Local History and Labels
-# TODO: [] Git Repository
+# TODO: [x] Git Repository
 # TODO: [] Docstring
 # TODO: [] The Zen of Python
